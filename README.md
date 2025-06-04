@@ -8,7 +8,6 @@ Email Me 👉 ✉️ **3103aanya@gmail.com** For Collaboration/Project or Anythi
 - 👯 **I’m looking to collaborate on:** Development projects
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** 3103aanya@gmail.com
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
 
 ## 🌐 Socials:
