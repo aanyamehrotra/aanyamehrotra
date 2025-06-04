@@ -1,5 +1,14 @@
-# 💫 About Me:
-Aspiring full-stack developer passionate about DSA<br><br>Currently deepening expertise in full-stack by building real-world projects<br><br>Focused on crafting clean, user-friendly, and responsive web interfaces<br><br>Love turning creative ideas into functional and elegant code<br><br>Enthusiast of continuous learning and keeping up with the latest web technologies<br><br>Open to collaboration, feedback, and connecting with fellow developers<br><br>
+# 💫 Hi 👋, I'm Aanya Mehrotra
+**Aspiring full-stack developer || B.tech CS-AI || DSA**
+
+Email Me 👉 ✉️ **3103aanya@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
+- 🔭 **I’m currently working as a front-end intern**
+- 🌱 **I’m currently learning:** Back-end
+- 👯 **I’m looking to collaborate on:** Development projects
+- 💬 **Ask me about:** Collaboration, Tech Support
+- 📫 **How to reach me:** 3103aanya@gmail.com
+- ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
 
 ## 🌐 Socials:
